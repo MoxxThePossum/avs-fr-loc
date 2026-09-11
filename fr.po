@@ -29,7 +29,7 @@ msgstr "Standard"
 #. Class select - description (default)
 #. source: Your regular old cursor - balanced, simple, beautiful.
 msgid "CLASS.default.description"
-msgstr "Le pointeur classique"
+msgstr "Le pointeur classique."
 
 #. Class select - name (null)
 #. source: Null
@@ -39,7 +39,7 @@ msgstr "Null"
 #. Class select - description (null)
 #. source: Weak and fragile, but has a lot of luck.
 msgid "CLASS.null.description"
-msgstr "Très fragile, mais chanceux"
+msgstr "Très fragile, mais chanceux."
 
 #. Class select - name (vector)
 #. source: Vector
@@ -49,7 +49,7 @@ msgstr "Vécteur"
 #. Class select - description (vector)
 #. source: A fast one
 msgid "CLASS.vector.description"
-msgstr "Rapide"
+msgstr "Rapide."
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
@@ -59,7 +59,7 @@ msgstr "Chaos"
 #. Folder evolution mode - description (chaos)
 #. source: A inconsistent unpredictable mess of difficulty. I couldn't tell you what to expect.
 msgid "EVO.chaos.description"
-msgstr "Une difficulté inprévisible"
+msgstr "Une difficulté inprévisible."
 
 #. Folder evolution mode - name (linear)
 #. source: Linear
@@ -69,7 +69,7 @@ msgstr "Linéaire"
 #. Folder evolution mode - description (linear)
 #. source: A consistent linear stream of more enemies being added over time.
 msgid "EVO.linear.description"
-msgstr "Ajoute plus d'ennemis d'une facon consistente"
+msgstr "Ajoute plus d'ennemis d'une facon consistente."
 
 #. Folder evolution mode - name (variable)
 #. source: Variable
@@ -79,7 +79,7 @@ msgstr "Variable"
 #. Folder evolution mode - description (variable)
 #. source: A varied level of enemies that ramps up and down to give more moments of peace but harder increases.
 msgid "EVO.variable.description"
-msgstr "Plus d'ennemis, avec des moments de pause"
+msgstr "Plus d'ennemis, avec des moments de pause."
 
 #. Meta upgrade menu - name (armor)
 #. source: Armo(u)r
@@ -90,7 +90,7 @@ msgstr "Protection"
 #. Meta upgrade menu - description (armor)
 #. source: Adds +1 Armo(u)r per Rank.
 msgid "META.armor.description"
-msgstr "+1 protection pour chaque rang"
+msgstr "+1 protection pour chaque rang."
 
 #. Meta upgrade menu - name (coin_gain)
 #. source: Coin Gain
@@ -100,22 +100,22 @@ msgstr "Plus de pièces"
 #. Meta upgrade menu - description (coin_gain)
 #. source: Multiply Coin Gain by an extra +1% per Rank.
 msgid "META.coin_gain.description"
-msgstr "Multiplie les gains de pièces par 1% pour chaque rang"
+msgstr "Multiplie les gains de pièces par 1% pour chaque rang."
 
 #. Meta upgrade menu - name (crit_chance)
 #. source: Crit Chance
 msgid "META.crit_chance.name"
-msgstr "Attaque critique"
+msgstr "Chance d'attaque crit."
 
 #. Meta upgrade menu - description (crit_chance)
 #. source: Increases Crit Chance +1% per Rank.
 msgid "META.crit_chance.description"
-msgstr "Incrémente la chance d'une attaque critique de 1% pour chaque rang"
+msgstr "Incrémente la chance d'une attaque critique de 1% pour chaque rang."
 
 #. Meta upgrade menu - name (crit_damage)
 #. source: Crit Damage
 msgid "META.crit_damage.name"
-msgstr ""
+msgstr "Attaque critique"
 
 #. Meta upgrade menu - description (crit_damage)
 #. source: Multiply Crit Damage by an extra +2% per Rank.
@@ -130,7 +130,7 @@ msgstr "Vitesse du pointeur"
 #. Meta upgrade menu - description (cursor_speed)
 #. source: Multiply Cursor Speed by an extra +1% per Rank.
 msgid "META.cursor_speed.description"
-msgstr "Multiplie la vitesse du pointeur par +1% pour chaque rang"
+msgstr "Multiplie la vitesse du pointeur par +1% pour chaque rang."
 
 #. Meta upgrade menu - name (exp_gain)
 #. source: EXP Gain
@@ -140,7 +140,7 @@ msgstr "Gain d'EXP"
 #. Meta upgrade menu - description (exp_gain)
 #. source: Multiply EXP Gain by an extra +2% per Rank.
 msgid "META.exp_gain.description"
-msgstr "Multiplie les gains d'éxperience par +2% pour chaque rang"
+msgstr "Multiplie les gains d'éxperience par +2% pour chaque rang."
 
 #. Meta upgrade menu - name (health_regen)
 #. source: Health Regen
@@ -152,7 +152,7 @@ msgstr "Regéneration"
 #. Meta upgrade menu - description (health_regen)
 #. source: Adds +1 HP Health Regen per Rank.
 msgid "META.health_regen.description"
-msgstr "Ajoute +1 PV de regéneration pour chaque rang"
+msgstr "Ajoute +1 PV de regéneration pour chaque rang."
 
 #. Meta upgrade menu - name (luck)
 #. source: Luck
@@ -162,7 +162,7 @@ msgstr "Chance"
 #. Meta upgrade menu - description (luck)
 #. source: Multiply Luck by an extra +1% per Rank.
 msgid "META.luck.description"
-msgstr "Multiplie le taux de chance par +1% pour chaque rang"
+msgstr "Multiplie le taux de chance par +1% pour chaque rang."
 
 #. Meta upgrade menu - name (magnetism)
 #. source: Magnetism
@@ -172,7 +172,7 @@ msgstr "Magnétisme"
 #. Meta upgrade menu - description (magnetism)
 #. source: Multiply Magnetism by an extra +2% per Rank.
 msgid "META.magnetism.description"
-msgstr "Multiplie le magnétisme par +2% pour chaque rang"
+msgstr "Multiplie le magnétisme par +2% pour chaque rang."
 
 # PV pour points de vie?
 #. Meta upgrade menu - name (max_health)
@@ -184,7 +184,7 @@ msgstr "PV maxi"
 #. Meta upgrade menu - description (max_health)
 #. source: Adds +10 HP Max Health per Rank.
 msgid "META.max_health.description"
-msgstr "Ajoute +10 PV pour chaque rang"
+msgstr "Ajoute +10 PV maxi pour chaque rang."
 
 #. Meta upgrade menu - name (packet_loss)
 #. source: Packet Loss
@@ -194,7 +194,7 @@ msgstr "Perte de paquets"
 #. Meta upgrade menu - description (packet_loss)
 #. source: Adds +1 Packet Loss per Rank.
 msgid "META.packet_loss.description"
-msgstr "Ajoute +1 perte de paquets pour chaque rang"
+msgstr "Ajoute +1 perte de paquets pour chaque rang."
 
 #. Meta upgrade menu - name (proc_speed)
 #. source: Processing Speed
@@ -204,7 +204,7 @@ msgstr "Vitesse du processeur"
 #. Meta upgrade menu - description (proc_speed)
 #. source: Multiply Processing Speed by an extra +1% per Rank.
 msgid "META.proc_speed.description"
-msgstr "Multiplie la vitesse du processeur par +1% pour chaque rang"
+msgstr "Multiplie la vitesse du processeur par +1% pour chaque rang."
 
 #. Meta upgrade menu - name (weap_amount)
 #. source: Weapon Amount
@@ -295,8 +295,8 @@ msgstr "boost_pv_regen"
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
 msgstr ""
-"Ajoute +64 PV.\n"
-"Ajoute +12 regénération PV"
+"Ajoute +64 PV maxi.\n"
+"Ajoute +12 regénération de PV."
 
 #. Plugin - name (big_wave_damage)
 #. source: big_wave_damage
@@ -316,7 +316,7 @@ msgstr "fich_ouverture_boom"
 #. Plugin - description (blast_on_file_open)
 #. source: 25% Chance to trigger a Blast when opening a File.
 msgid "PLUGIN.blast_on_file_open.description"
-msgstr "25% de chance d'explosion en ouvrant un fichier"
+msgstr "25% de chance d'explosion en ouvrant un fichier."
 
 #. Plugin - name (chance_defrag)
 #. source: chance_defrag
@@ -326,7 +326,7 @@ msgstr "chance_defrag"
 #. Plugin - description (chance_defrag)
 #. source: 10% Chance to perform a Defrag every 30s.
 msgid "PLUGIN.chance_defrag.description"
-msgstr "10% chance de défragmentation toutes les 30s"
+msgstr "10% chance de défragmentation toutes les 30s."
 
 #. Plugin - name (coin_boost)
 #. source: coin_boost
@@ -336,27 +336,27 @@ msgstr "boost_pieces"
 #. Plugin - description (coin_boost)
 #. source: Multiply Coin Gain 1.1x.
 msgid "PLUGIN.coin_boost.description"
-msgstr "Multiplie les gains de pièces par 1.1x"
+msgstr "Multiplie les gains de pièces par 1.1x."
 
 #. Plugin - name (coin_drop_boost)
 #. source: coin_drop_boost
 msgid "PLUGIN.coin_drop_boost.name"
-msgstr ""
+msgstr "boost_chance_pieces"
 
 #. Plugin - description (coin_drop_boost)
 #. source: Increase enemy Coin Drop Chance +20%.
 msgid "PLUGIN.coin_drop_boost.description"
-msgstr ""
+msgstr "Incrémente la chance d'apparition de pièces par +20%."
 
 #. Plugin - name (crit_chance_boost)
 #. source: crit_chance_boost
 msgid "PLUGIN.crit_chance_boost.name"
-msgstr ""
+msgstr "chance_att_crit_boost"
 
 #. Plugin - description (crit_chance_boost)
 #. source: Multiply Crit Chance 1.1x.
 msgid "PLUGIN.crit_chance_boost.description"
-msgstr ""
+msgstr "Multiplie la chance d'une attaque critique par 1.1x."
 
 #. Plugin - name (cursor_speed_boost)
 #. source: cursor_speed_boost
@@ -366,7 +366,7 @@ msgstr "boost_vitesse"
 #. Plugin - description (cursor_speed_boost)
 #. source: Multiply Cursor Speed 1.1x
 msgid "PLUGIN.cursor_speed_boost.description"
-msgstr "Multiplie la vitesse du pointeur par 1.1x"
+msgstr "Multiplie la vitesse du pointeur par 1.1x."
 
 #. Plugin - name (cursor_speed_damage)
 #. source: cursor_speed_damage
@@ -426,17 +426,17 @@ msgstr "dossier_secu_defrag"
 #. Plugin - description (defrag_on_safe_folder)
 #. source: Perform a Defrag when the Safe Folder spawns.
 msgid "PLUGIN.defrag_on_safe_folder.description"
-msgstr "Défragmentation pendant l'apparition du dossier sécurisé"
+msgstr "Défragmentation pendant l'apparition du dossier sécurisé."
 
 #. Plugin - name (dual_core)
 #. source: Dual Core
 msgid "PLUGIN.dual_core.name"
-msgstr ""
+msgstr "Double noyaux"
 
 #. Plugin - description (dual_core)
 #. source: Multiply Processing Speed 2.0x.
 msgid "PLUGIN.dual_core.description"
-msgstr ""
+msgstr "Multiplie la vitesse du processeur par 2.0x."
 
 #. Plugin - name (heal_on_crit)
 #. source: heal_on_crit
@@ -456,7 +456,7 @@ msgstr "boost_pv"
 #. Plugin - description (hp_boost)
 #. source: Add +15 Max HP.
 msgid "PLUGIN.hp_boost.description"
-msgstr "Ajoute +15 PV"
+msgstr "Ajoute +15 PV maxi."
 
 #. Plugin - name (hp_on_heal)
 #. source: hp_on_heal
@@ -471,7 +471,7 @@ msgstr ""
 #. Plugin - name (locate_pointer)
 #. source: Locate Pointer
 msgid "PLUGIN.locate_pointer.name"
-msgstr ""
+msgstr "aidez_moi"
 
 #. Plugin - description (locate_pointer)
 #. source: Trigger a Blast when taking damage (20s cooldown).
@@ -486,7 +486,7 @@ msgstr "boost_chance"
 #. Plugin - description (luck_boost)
 #. source: Multiply Luck 1.1x.
 msgid "PLUGIN.luck_boost.description"
-msgstr ""
+msgstr "Multiplie la chance par 1.1x."
 
 #. Plugin - name (luck_reroll)
 #. source: luck_reroll
@@ -501,12 +501,13 @@ msgstr ""
 #. Plugin - name (luck_zip_boost)
 #. source: luck_zip_boost
 msgid "PLUGIN.luck_zip_boost.name"
-msgstr ""
+msgstr "boost_chance_zip"
 
 #. Plugin - description (luck_zip_boost)
 #. source: Increase Luck +3% when successfully opening a Zip File.
 msgid "PLUGIN.luck_zip_boost.description"
 msgstr ""
+"Incrémente la chance par +3% après extraction d'un dossier compressé."
 
 #. Plugin - name (lucky_when_hurt)
 #. source: Lucky When Hurt
@@ -521,52 +522,54 @@ msgstr ""
 #. Plugin - name (packet_loss_boost)
 #. source: packet_loss_boost
 msgid "PLUGIN.packet_loss_boost.name"
-msgstr ""
+msgstr "boost_perte_paquet"
 
 #. Plugin - description (packet_loss_boost)
 #. source: Add +6 Packet Loss.
+#, fuzzy
 msgid "PLUGIN.packet_loss_boost.description"
-msgstr ""
+msgstr "Ajoute +6 perte de paquets."
 
 #. Plugin - name (processing_speed_boost)
 #. source: processing_speed_boost
 msgid "PLUGIN.processing_speed_boost.name"
-msgstr ""
+msgstr "boost_vitesse_proc"
 
 #. Plugin - description (processing_speed_boost)
 #. source: Multiply Processing Speed 1.1x.
 msgid "PLUGIN.processing_speed_boost.description"
-msgstr ""
+msgstr "Multiplie la vitesse du processeur par 1.1x."
 
 #. Plugin - name (regen_boost)
 #. source: regen_boost
 msgid "PLUGIN.regen_boost.name"
-msgstr ""
+msgstr "boost_regen"
 
 #. Plugin - description (regen_boost)
 #. source: Add +5 Health Regen.
+#, fuzzy
 msgid "PLUGIN.regen_boost.description"
-msgstr ""
+msgstr "Ajoute +5 regéneration PV."
 
 #. Plugin - name (shop_discount_10)
 #. source: shop_discount_10
 msgid "PLUGIN.shop_discount_10.name"
-msgstr ""
+msgstr "boutique_coupon_10"
 
 #. Plugin - description (shop_discount_10)
 #. source: Discount Shop Items +10%.
 msgid "PLUGIN.shop_discount_10.description"
-msgstr ""
+msgstr "-10% sur tout dans la boutique."
 
 #. Plugin - name (shop_discount_25)
 #. source: shop_discount_25
 msgid "PLUGIN.shop_discount_25.name"
-msgstr ""
+msgstr "boutique_coupon_25"
 
 #. Plugin - description (shop_discount_25)
 #. source: Discount Shop Items +25%.
 msgid "PLUGIN.shop_discount_25.description"
-msgstr ""
+msgstr "-25% sur tout dans la boutique."
 
 #. Plugin - name (slow_but_strong)
 #. source: Rau und Stark
@@ -641,7 +644,7 @@ msgstr ""
 #. Difficulty protocol - name (protocol_1)
 #. source: Protocol I
 msgid "PROTOCOL.protocol_1.name"
-msgstr ""
+msgstr "Protocole I"
 
 #. Difficulty protocol - description (protocol_1)
 #. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
@@ -651,7 +654,7 @@ msgstr ""
 #. Difficulty protocol - name (protocol_2)
 #. source: Protocol II
 msgid "PROTOCOL.protocol_2.name"
-msgstr ""
+msgstr "Protocole II"
 
 #. Difficulty protocol - description (protocol_2)
 #. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
@@ -661,7 +664,7 @@ msgstr ""
 #. Difficulty protocol - name (protocol_3)
 #. source: Protocol III
 msgid "PROTOCOL.protocol_3.name"
-msgstr ""
+msgstr "Protocole III"
 
 #. Difficulty protocol - description (protocol_3)
 #. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
@@ -671,7 +674,7 @@ msgstr ""
 #. Difficulty protocol - name (protocol_4)
 #. source: Protocol IV
 msgid "PROTOCOL.protocol_4.name"
-msgstr ""
+msgstr "Protocole IV"
 
 #. Difficulty protocol - description (protocol_4)
 #. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
@@ -681,7 +684,7 @@ msgstr ""
 #. Difficulty protocol - name (protocol_5)
 #. source: Protocol V
 msgid "PROTOCOL.protocol_5.name"
-msgstr ""
+msgstr "Protocole V"
 
 #. Difficulty protocol - description (protocol_5)
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
@@ -1339,42 +1342,42 @@ msgstr ""
 #. Settings menu
 #. source: Unlimited
 msgid "SETTINGS.fps_unlimited"
-msgstr ""
+msgstr "Sans limite"
 
 #. Settings menu
 #. source: Windowed
 msgid "SETTINGS.windowed"
-msgstr ""
+msgstr "Fenêtre"
 
 #. Settings menu
 #. source: Full Screen
 msgid "SETTINGS.fullscreen"
-msgstr ""
+msgstr "Plein écran"
 
 #. Settings menu
 #. source: Unknown
 msgid "SETTINGS.unknown"
-msgstr ""
+msgstr "Inconnu"
 
 #. Settings menu
 #. source: Standard
 msgid "SETTINGS.zoom_standard"
-msgstr ""
+msgstr "Standard"
 
 #. Settings menu
 #. source: ON
 msgid "SETTINGS.on"
-msgstr ""
+msgstr "ACTIVÉ"
 
 #. Settings menu
 #. source: OFF
 msgid "SETTINGS.off"
-msgstr ""
+msgstr "DESACTIVÉ"
 
 #. Settings menu
 #. source: Language
 msgid "SETTINGS.language"
-msgstr ""
+msgstr "Langue"
 
 #. Settings menu
 #. source: Restart the game for all text to update.
@@ -1384,37 +1387,37 @@ msgstr ""
 #. Rarity label
 #. source: Common
 msgid "RARITY.common"
-msgstr ""
+msgstr "Commun"
 
 #. Rarity label
 #. source: Uncommon
 msgid "RARITY.uncommon"
-msgstr ""
+msgstr "Incommun"
 
 #. Rarity label
 #. source: Rare
 msgid "RARITY.rare"
-msgstr ""
+msgstr "Rare"
 
 #. Rarity label
 #. source: Epic
 msgid "RARITY.epic"
-msgstr ""
+msgstr "Épique"
 
 #. Rarity label
 #. source: Legendary
 msgid "RARITY.legendary"
-msgstr ""
+msgstr "Légendaire"
 
 #. Rarity label
 #. source: Unknown
 msgid "RARITY.unknown"
-msgstr ""
+msgstr "Inconnu"
 
 #. Torrent window
 #. source: Finished
 msgid "TORRENT.finished"
-msgstr ""
+msgstr "Terminé"
 
 #. Torrent window
 #. source: Stalled
@@ -1424,13 +1427,13 @@ msgstr ""
 #. Torrent window
 #. source: Downloading
 msgid "TORRENT.downloading"
-msgstr ""
+msgstr "Télechargement"
 
 #. Torrent window
 #. source: %d KB/s
 #. Keep placeholders unchanged: %d
 msgid "TORRENT.speed"
-msgstr ""
+msgstr "%d Ko/s"
 
 #. UI (script-driven)
 #. source: Vapor - Validating files - {0}% complete
@@ -1441,13 +1444,13 @@ msgstr ""
 #. source: Level: %d
 #. Keep placeholders unchanged: %d
 msgid "UI.level"
-msgstr ""
+msgstr "Niveau: %d"
 
 #. Upgrade screen - fake window title
 #. source: level%d.doc - SH Docs 2003
 #. Keep placeholders unchanged: %d
 msgid "UI.window_title"
-msgstr ""
+msgstr "niveau%d.doc - SH Docs 2003"
 
 #. Upgrade screen - title
 #. source: Level Up!
@@ -1482,7 +1485,7 @@ msgstr "Défragmenté"
 #. UI (script-driven)
 #. source: %2.2f KB
 msgid "UI.defrag_capacity"
-msgstr ""
+msgstr "%2.2f Ko"
 
 #. Upgrade screen - speech prompt
 #. source: Select an upgrade to continue.
@@ -1642,7 +1645,7 @@ msgstr "Utilise une clé"
 #. Desktop icon tooltip
 #. source: Destroys everything on-screen!
 msgid "CLICKABLE.vapor_destroys"
-msgstr "Détruit tout sur l'écran"
+msgstr "Détruit tout sur l'écran!"
 
 #. Stat tooltip
 #. source: Level %d
@@ -1660,7 +1663,7 @@ msgstr ""
 #. source: Amount: %.1f
 #. Keep placeholders unchanged: %.1f
 msgid "TOOLTIP.amount"
-msgstr "Nombre:%.1f"
+msgstr "Nombre: %.1f"
 
 #. Stat tooltip
 #. source: Speed: %.2fs
@@ -1802,7 +1805,7 @@ msgstr "Paquet Perdu"
 #. Scene label
 #. source: Memory Leak!
 msgid "Memory Leak"
-msgstr "Fuite de mémoire"
+msgstr "Fuite de mémoire!"
 
 # comme Windows XP
 #. Scene label
@@ -1915,7 +1918,7 @@ msgstr "Paint"
 #. Vapor window
 #. source: {0} files failed to validate and will be reaquired.
 msgid "VAPOR.validate_fail"
-msgstr "Erreur de validation sur {0} fichiers"
+msgstr "Erreur de validation sur {0} fichiers."
 
 #. Skips installing plugin and removes it from selection pool
 msgid "Skips installing plugin and removes it from selection pool."
@@ -1934,7 +1937,7 @@ msgstr "Installation du pilote."
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn
 msgid "(1) Alert!!! CRITICAL"
-msgstr "ALERTE!!! CRITIQUE"
+msgstr "(1) ALERTE!!! CRITIQUE"
 
 #. Scene label
 #. screens: headshot_text.tscn
@@ -2097,7 +2100,7 @@ msgstr "IMPRIMANTE PAS CHER CHEZ NOUS"
 #. Scene label
 #. screens: spam_ad_7.tscn
 msgid "Before you go, did you kno.."
-msgstr "Juste une dernière chose, Savez vous qu..."
+msgstr "Juste une dernière chose, Savez vous qu.."
 
 #. Scene label
 #. screens: spam_ad_8.tscn
@@ -2145,13 +2148,12 @@ msgstr ""
 
 #. Scene label
 #. screens: zip_window.tscn
-#, fuzzy
 msgid ""
 "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
 "Processing rate: 0.00 KB/Sec"
 msgstr ""
-"Temps estimé: 0m 00s (0.00 KB de 0.00 KB)\n"
-"Vitesse d'extraction: 0.00 KB/sec"
+"Temps estimé: 0m 00s (0.00 Ko de 0.00 Ko)\n"
+"Vitesse d'extraction: 0.00 Ko/sec"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -2161,7 +2163,7 @@ msgstr ""
 #. Scene label
 #. screens: main.tscn
 msgid "All data has been collected."
-msgstr ""
+msgstr "Toutes les donnés collectionés."
 
 #. Scene label
 #. screens: main.tscn
@@ -2176,7 +2178,7 @@ msgstr "Pas assez de clés :("
 #. Scene label
 #. screens: main.tscn
 msgid "Critical Health!"
-msgstr ""
+msgstr "PV faible!"
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -2378,6 +2380,8 @@ msgid ""
 "Add +10 Max HP.\n"
 "Heal 20% of Max HP when opening a Safe Folder."
 msgstr ""
+"Ajoute +10 PV maxi.\n"
+"Regagne 20% des PV maxi en ouvrant un dossier sécurisé."
 
 #. Scene label
 #. screens: installer_window.tscn
