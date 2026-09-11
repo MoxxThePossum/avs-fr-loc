@@ -19,7 +19,7 @@ msgstr "Brique"
 #. Class select - description (brick)
 #. source: A tank
 msgid "CLASS.brick.description"
-msgstr "Indéstructible"
+msgstr "Indestructible"
 
 #. Class select - name (default)
 #. source: Default
@@ -29,7 +29,7 @@ msgstr "Standard"
 #. Class select - description (default)
 #. source: Your regular old cursor - balanced, simple, beautiful.
 msgid "CLASS.default.description"
-msgstr "Le curseur classique"
+msgstr "Le pointeur classique"
 
 #. Class select - name (null)
 #. source: Null
@@ -125,12 +125,12 @@ msgstr ""
 #. Meta upgrade menu - name (cursor_speed)
 #. source: Cursor Speed
 msgid "META.cursor_speed.name"
-msgstr "Vitesse du curseur"
+msgstr "Vitesse du pointeur"
 
 #. Meta upgrade menu - description (cursor_speed)
 #. source: Multiply Cursor Speed by an extra +1% per Rank.
 msgid "META.cursor_speed.description"
-msgstr "Multiplie la vitesse du curseur par +1% pour chaque rang"
+msgstr "Multiplie la vitesse du pointeur par +1% pour chaque rang"
 
 #. Meta upgrade menu - name (exp_gain)
 #. source: EXP Gain
@@ -162,7 +162,7 @@ msgstr "Chance"
 #. Meta upgrade menu - description (luck)
 #. source: Multiply Luck by an extra +1% per Rank.
 msgid "META.luck.description"
-msgstr ""
+msgstr "Multiplie le taux de chance par +1% pour chaque rang"
 
 #. Meta upgrade menu - name (magnetism)
 #. source: Magnetism
@@ -172,7 +172,7 @@ msgstr "Magnétisme"
 #. Meta upgrade menu - description (magnetism)
 #. source: Multiply Magnetism by an extra +2% per Rank.
 msgid "META.magnetism.description"
-msgstr ""
+msgstr "Multiplie le magnétisme par +2% pour chaque rang"
 
 # PV pour points de vie?
 #. Meta upgrade menu - name (max_health)
@@ -184,7 +184,7 @@ msgstr "PV maxi"
 #. Meta upgrade menu - description (max_health)
 #. source: Adds +10 HP Max Health per Rank.
 msgid "META.max_health.description"
-msgstr ""
+msgstr "Ajoute +10 PV pour chaque rang"
 
 #. Meta upgrade menu - name (packet_loss)
 #. source: Packet Loss
@@ -289,12 +289,14 @@ msgstr ""
 #. Plugin - name (big_hp_regen_boost)
 #. source: big_hp_regen_boost
 msgid "PLUGIN.big_hp_regen_boost.name"
-msgstr ""
+msgstr "boost_pv_regen"
 
 #. Plugin - description (big_hp_regen_boost)
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
 msgstr ""
+"Ajoute +64 PV.\n"
+"Ajoute +12 regénération PV"
 
 #. Plugin - name (big_wave_damage)
 #. source: big_wave_damage
@@ -309,32 +311,32 @@ msgstr ""
 #. Plugin - name (blast_on_file_open)
 #. source: blast_on_file_open
 msgid "PLUGIN.blast_on_file_open.name"
-msgstr ""
+msgstr "fich_ouverture_boom"
 
 #. Plugin - description (blast_on_file_open)
 #. source: 25% Chance to trigger a Blast when opening a File.
 msgid "PLUGIN.blast_on_file_open.description"
-msgstr ""
+msgstr "25% de chance d'explosion en ouvrant un fichier"
 
 #. Plugin - name (chance_defrag)
 #. source: chance_defrag
 msgid "PLUGIN.chance_defrag.name"
-msgstr ""
+msgstr "chance_defrag"
 
 #. Plugin - description (chance_defrag)
 #. source: 10% Chance to perform a Defrag every 30s.
 msgid "PLUGIN.chance_defrag.description"
-msgstr ""
+msgstr "10% chance de défragmentation toutes les 30s"
 
 #. Plugin - name (coin_boost)
 #. source: coin_boost
 msgid "PLUGIN.coin_boost.name"
-msgstr ""
+msgstr "boost_pieces"
 
 #. Plugin - description (coin_boost)
 #. source: Multiply Coin Gain 1.1x.
 msgid "PLUGIN.coin_boost.description"
-msgstr ""
+msgstr "Multiplie les gains de pièces par 1.1x"
 
 #. Plugin - name (coin_drop_boost)
 #. source: coin_drop_boost
@@ -359,12 +361,12 @@ msgstr ""
 #. Plugin - name (cursor_speed_boost)
 #. source: cursor_speed_boost
 msgid "PLUGIN.cursor_speed_boost.name"
-msgstr ""
+msgstr "boost_vitesse"
 
 #. Plugin - description (cursor_speed_boost)
 #. source: Multiply Cursor Speed 1.1x
 msgid "PLUGIN.cursor_speed_boost.description"
-msgstr ""
+msgstr "Multiplie la vitesse du pointeur par 1.1x"
 
 #. Plugin - name (cursor_speed_damage)
 #. source: cursor_speed_damage
@@ -419,12 +421,12 @@ msgstr ""
 #. Plugin - name (defrag_on_safe_folder)
 #. source: defrag_on_safe_folder
 msgid "PLUGIN.defrag_on_safe_folder.name"
-msgstr ""
+msgstr "dossier_secu_defrag"
 
 #. Plugin - description (defrag_on_safe_folder)
 #. source: Perform a Defrag when the Safe Folder spawns.
 msgid "PLUGIN.defrag_on_safe_folder.description"
-msgstr ""
+msgstr "Défragmentation pendant l'apparition du dossier sécurisé"
 
 #. Plugin - name (dual_core)
 #. source: Dual Core
@@ -449,12 +451,12 @@ msgstr ""
 #. Plugin - name (hp_boost)
 #. source: hp_boost
 msgid "PLUGIN.hp_boost.name"
-msgstr ""
+msgstr "boost_pv"
 
 #. Plugin - description (hp_boost)
 #. source: Add +15 Max HP.
 msgid "PLUGIN.hp_boost.description"
-msgstr ""
+msgstr "Ajoute +15 PV"
 
 #. Plugin - name (hp_on_heal)
 #. source: hp_on_heal
@@ -479,7 +481,7 @@ msgstr ""
 #. Plugin - name (luck_boost)
 #. source: luck_boost
 msgid "PLUGIN.luck_boost.name"
-msgstr ""
+msgstr "boost_chance"
 
 #. Plugin - description (luck_boost)
 #. source: Multiply Luck 1.1x.
@@ -1508,13 +1510,13 @@ msgstr ""
 #. source: Coin: %.2f
 #. Keep placeholders unchanged: %.2f
 msgid "UI.coin"
-msgstr ""
+msgstr "Pièces: %.2f"
 
 #. HUD - Keys label
 #. source: Keys: %.2f
 #. Keep placeholders unchanged: %.2f
 msgid "UI.keys"
-msgstr ""
+msgstr "Clés: %.2f"
 
 #. Torrent window - tab
 #. source: All (%d)
@@ -1544,27 +1546,27 @@ msgstr ""
 #. source: HP: %d/%d
 #. Keep placeholders unchanged: %d
 msgid "UI.hp"
-msgstr ""
+msgstr "PV: %d/%d"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Open
 msgid "CLICKABLE.double_click_open"
-msgstr ""
+msgstr "Double-clic pour ouvrir"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Run
 msgid "CLICKABLE.double_click_run"
-msgstr ""
+msgstr "Double-clic pour éxécuter"
 
 #. Desktop icon tooltip
 #. source: Downloads 1-5 Weapon Upgrades
 msgid "CLICKABLE.torrent_downloads"
-msgstr ""
+msgstr "Télécharge 1-5 améliorations"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Purchase
 msgid "CLICKABLE.double_click_purchase"
-msgstr ""
+msgstr "Double-clic pour acheter"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Fight
@@ -1584,12 +1586,12 @@ msgstr ""
 #. Desktop icon tooltip
 #. source: Double-Click to Install Plugin
 msgid "CLICKABLE.double_click_install"
-msgstr ""
+msgstr "Double-clic pour installer le pilote"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Generate Key
 msgid "CLICKABLE.double_click_keygen"
-msgstr ""
+msgstr "Double-clic pour générer une clé"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Play
@@ -1604,49 +1606,49 @@ msgstr ""
 #. Desktop icon tooltip
 #. source: Double-Click to Unarchive
 msgid "CLICKABLE.double_click_unarchive"
-msgstr ""
+msgstr "Double-clic pour extraire"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Equip
 msgid "CLICKABLE.double_click_equip"
-msgstr ""
+msgstr "Double-clic pour équiper"
 
 #. Desktop icon tooltip
 #. source: Double-Click to apply
 msgid "CLICKABLE.double_click_apply"
-msgstr ""
+msgstr "Double-clic pour appliquer"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link
 msgid "CLICKABLE.double_click_open_link"
-msgstr ""
+msgstr "Double-clic pour ouvrir le lien"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Change Language
 msgid "CLICKABLE.double_click_cycle_language"
-msgstr ""
+msgstr "Double-clic pour changer la langue"
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
 #. Keep placeholders unchanged: %.0f, %%
 msgid "CLICKABLE.success_chance"
-msgstr ""
+msgstr "%.0f%% chance de succès"
 
 #. Desktop icon tooltip
 #. source: Uses 1 Key
 msgid "CLICKABLE.uses_one_key"
-msgstr ""
+msgstr "Utilise une clé"
 
 #. Desktop icon tooltip
 #. source: Destroys everything on-screen!
 msgid "CLICKABLE.vapor_destroys"
-msgstr ""
+msgstr "Détruit tout sur l'écran"
 
 #. Stat tooltip
 #. source: Level %d
 #. Keep placeholders unchanged: %d
 msgid "TOOLTIP.level"
-msgstr ""
+msgstr "Niveau %d"
 
 #. Stat tooltip
 #. source: Damage: %.1f
@@ -1734,17 +1736,17 @@ msgstr ""
 #. Desktop icon tooltip
 #. source: BigWave.exe
 msgid "CLICKABLE.filename.torrent"
-msgstr ""
+msgstr "BigWave.exe"
 
 #. Desktop icon tooltip
 #. source: LemWire.exe
 msgid "CLICKABLE.filename.lemwire"
-msgstr ""
+msgstr "LemWire.exe"
 
 #. Desktop icon tooltip
 #. source: Installer.pgi
 msgid "CLICKABLE.filename.installer"
-msgstr ""
+msgstr "Installateur.pgi"
 
 #. Run stats panel row
 #. source: Difficulty
@@ -1800,9 +1802,10 @@ msgstr "Paquet Perdu"
 msgid "Memory Leak"
 msgstr "Fuite de mémoire"
 
+# comme Windows XP
 #. Scene label
 msgid "Zip File"
-msgstr "Fichier Zip"
+msgstr "Dossier compressé"
 
 #. Scene label
 msgid "Shop"
@@ -1872,14 +1875,12 @@ msgid "Wishlist"
 msgstr "Liste de souhaits"
 
 #. Scene label
-#, fuzzy
 msgid "Discord"
 msgstr "Discord"
 
 #. avs03
-#, fuzzy
 msgid "avs03.com"
-msgstr "avs03.fr"
+msgstr "avs03.com"
 
 #. Scene label
 msgid "Level 8"
@@ -1901,7 +1902,9 @@ msgstr "Vide"
 msgid ""
 "Internet\n"
 "Cruiser"
-msgstr "Navigateur Internet"
+msgstr ""
+"Navigateur\n"
+"Internet"
 
 #. Scene label
 msgid "Paint"
@@ -1910,12 +1913,12 @@ msgstr "Paint"
 #. Vapor window
 #. source: {0} files failed to validate and will be reaquired.
 msgid "VAPOR.validate_fail"
-msgstr ""
+msgstr "Erreur de validation sur {0} fichiers"
 
 #. Skips installing plugin and removes it from selection pool
 msgid "Skips installing plugin and removes it from selection pool."
 msgstr ""
-"Ignore l'installation du pilote et le supprime de la liste des pilote "
+"Ignore l'installation du pilote et le supprime de la liste des pilotes "
 "sélectionnables."
 
 #. Skips installing plugin and refunds Key
@@ -1944,7 +1947,7 @@ msgstr "Fichier"
 #. Scene label
 #. screens: defrag_window.tscn
 msgid "Action"
-msgstr "Édition"
+msgstr "Action"
 
 #. Scene label
 #. screens: basic_window.tscn; defrag_window.tscn; torrent_window.tscn; upgrade_screen.tscn; window.tscn
@@ -1969,7 +1972,7 @@ msgstr "État de la session"
 #. Scene label
 #. screens: defrag_window.tscn
 msgid "Capacity"
-msgstr "Capécité"
+msgstr "Capacité"
 
 #. Scene label
 #. screens: defrag_window.tscn
@@ -1986,12 +1989,11 @@ msgstr "Défragmentation"
 msgid "Estimated exp before defragmentation:"
 msgstr "Estimation de l'EXP avant la défragmentation:"
 
-# soit Bibliothèque de liens dynamiques, soit juste Fichier
+# comme Windows XP
 #. Scene label
 #. screens: dll_window.tscn
-#, fuzzy
 msgid "Missing dynamic link library scd.dll located."
-msgstr "Fichier « scd.dll » introuvable."
+msgstr "Extension d'application « scd.dll » introuvable."
 
 #. Scene label
 #. screens: dll_window.tscn
@@ -2016,21 +2018,18 @@ msgstr "Télécharger"
 
 #. Scene label
 #. screens: download_ram_window.tscn
-#, fuzzy
 msgid "Your RAM is now downloading..."
-msgstr "Votre RAM se télécharge."
+msgstr "Votre RAM se télécharge..."
 
-# Clé ou No. de série
 #. Scene label
 #. screens: keygen_window.tscn
-#, fuzzy
 msgid "Serial:"
 msgstr "Clé:"
 
 #. Scene label
 #. screens: keygen_window.tscn
 msgid "Generate Key"
-msgstr "Génération de clé"
+msgstr "Générer une clé"
 
 #. Scene label
 #. screens: lem_upgrade_screen.tscn
@@ -2045,7 +2044,7 @@ msgstr "LemWire 4.7"
 #. Scene label
 #. screens: lem_window.tscn
 msgid "Searching: cursor upgrades"
-msgstr "Recherche : améliorations du curseur"
+msgstr "Recherche : améliorations du pointeur"
 
 #. Scene label
 #. screens: lem_window.tscn
@@ -2080,9 +2079,8 @@ msgstr "!!! !! BRAVO VOUS AVEZ GAGNÉ!!! !!!"
 
 #. Scene label
 #. screens: spam_ad_4.tscn
-#, fuzzy
 msgid "FREE AVDs CLI..."
-msgstr "CLI pour AVD GRATUIT..."
+msgstr "CLIQUE pour AVD GRAT..."
 
 #. Scene label
 #. screens: spam_ad_5.tscn
@@ -2166,7 +2164,7 @@ msgstr ""
 #. Scene label
 #. screens: main.tscn
 msgid "Collecting any loose Coin."
-msgstr ""
+msgstr "Collection de toutes pièces."
 
 #. Scene label
 #. screens: main.tscn
@@ -2191,37 +2189,37 @@ msgstr ""
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Movement -"
-msgstr ""
+msgstr "Mouvement -"
 
 #. Scene label
 #. screens: starter_folder.tscn; window.tscn
 msgid "/"
-msgstr ""
+msgstr "/"
 
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Click and Drag -"
-msgstr ""
+msgstr "Déplacer -"
 
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Menu Shortcut -"
-msgstr ""
+msgstr "Ouvrir le menu -"
 
 #. Scene label
 #. screens: starter_folder.tscn; window.tscn
 msgid "Show Stats -"
-msgstr ""
+msgstr "Afficher statistique -"
 
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Close -"
-msgstr ""
+msgstr "Fermer -"
 
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Pause -"
-msgstr ""
+msgstr "Pause -"
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -2261,17 +2259,17 @@ msgstr ""
 #. Scene label
 #. screens: stat_list.tscn
 msgid "StatsManager V0.1b"
-msgstr ""
+msgstr "StatAffich V0.1b"
 
 #. Scene label
 #. screens: stat_list.tscn
 msgid "A"
-msgstr ""
+msgstr "A"
 
 #. Scene label
 #. screens: stat_list.tscn
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #. Scene label
 #. screens: stat_list.tscn
@@ -2291,17 +2289,17 @@ msgstr ""
 #. Scene label
 #. screens: basic_window.tscn; upgrade_screen.tscn; window.tscn
 msgid "Edit"
-msgstr ""
+msgstr "Édition"
 
 #. Scene label
 #. screens: basic_window.tscn; window.tscn
 msgid "Favorites"
-msgstr ""
+msgstr "Favoris"
 
 #. Scene label
 #. screens: basic_window.tscn; window.tscn
 msgid "Antivirus Survivors 2003 Professional ©"
-msgstr ""
+msgstr "Antivirus Survivors 2003 Professionnel ©"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -2326,12 +2324,12 @@ msgstr ""
 #. Scene label
 #. screens: end_screen.tscn
 msgid "Open Steam Page"
-msgstr ""
+msgstr "Ouvrir page Steam"
 
 #. Scene label
 #. screens: end_screen.tscn
 msgid "Exit to Menu"
-msgstr ""
+msgstr "Quitter au menu"
 
 #. Scene label
 #. screens: end_timer_ui.tscn
@@ -2341,22 +2339,22 @@ msgstr ""
 #. Scene label
 #. screens: installer_window.tscn
 msgid "Plugin Suite Installation"
-msgstr ""
+msgstr "Installateur de pilotes"
 
 #. Scene label
 #. screens: installer_window.tscn
 msgid "Please wait..."
-msgstr ""
+msgstr "Veuillez patienter..."
 
 #. Scene label
 #. screens: installer_window.tscn
 msgid "PluginInstaller v2.03 r2"
-msgstr ""
+msgstr "PiloteInstallateur v2.03 r2"
 
 #. Scene label
 #. screens: installer_window.tscn
 msgid "Preparing to Install..."
-msgstr ""
+msgstr "Préparation de l'installation..."
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -2364,11 +2362,13 @@ msgid ""
 "PluginInstaller is preparing to find all appropriate plugins for this "
 "application."
 msgstr ""
+"PiloteInstallateur recherche tous les pilotes compatibles avec cet "
+"ordinateur."
 
 #. Scene label
 #. screens: installer_window.tscn
 msgid "Checking Plugin Compatibility Layer..."
-msgstr ""
+msgstr "Vérification de la compatibilité des pilotes..."
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -2380,27 +2380,27 @@ msgstr ""
 #. Scene label
 #. screens: installer_window.tscn
 msgid "Remove"
-msgstr ""
+msgstr "Supprimer"
 
 #. Scene label
 #. screens: installer_window.tscn
 msgid "Skip"
-msgstr ""
+msgstr "Ignorer"
 
 #. Scene label
 #. screens: installer_window.tscn
 msgid "Install"
-msgstr ""
+msgstr "Installer"
 
 #. Scene label
 #. screens: main_menu.tscn
 msgid "Exit to Desktop"
-msgstr ""
+msgstr "Quitter au bureau"
 
 #. Scene label
 #. screens: main_menu.tscn
 msgid "Start Exploring"
-msgstr ""
+msgstr "Explorer"
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -2410,17 +2410,17 @@ msgstr "Améliorations"
 #. Scene label
 #. screens: main_menu.tscn
 msgid "Statistics"
-msgstr ""
+msgstr "Statistique"
 
 #. Scene label
 #. screens: main_menu.tscn
 msgid "Personalise"
-msgstr ""
+msgstr "Personnalisation"
 
 #. Scene label
 #. screens: main_menu.tscn
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -2446,62 +2446,62 @@ msgstr ""
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
 msgid "UpgradeManager 2003 rc2"
-msgstr ""
+msgstr "AméliOutil 2003 rc2"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
 msgid "Refund All"
-msgstr ""
+msgstr "Tout rembourser"
 
 #. Scene label
 #. screens: notif_bubble.tscn
 msgid "This is"
-msgstr ""
+msgstr "Ceci est"
 
 #. Scene label
 #. screens: options_menu.tscn; pause_menu.tscn; torrent_window.tscn
 msgid "Options"
-msgstr ""
+msgstr "Paramètres"
 
 #. Scene label
 #. screens: options_menu.tscn
 msgid "SFX Volume"
-msgstr ""
+msgstr "Volume son"
 
 #. Scene label
 #. screens: options_menu.tscn
 msgid "Music Volume"
-msgstr ""
+msgstr "Volume musique"
 
 #. Scene label
 #. screens: options_menu.tscn
 msgid "Window Mode"
-msgstr ""
+msgstr "Mode fenêtre"
 
 #. Scene label
 #. screens: options_menu.tscn
 msgid "Back"
-msgstr ""
+msgstr "Annuler"
 
 #. Scene label
 #. screens: pause_menu.tscn
 msgid "Pause menu"
-msgstr ""
+msgstr "Menu pause"
 
 #. Scene label
 #. screens: pause_menu.tscn
 msgid "Stats"
-msgstr ""
+msgstr "Statistique"
 
 #. Scene label
 #. screens: pause_menu.tscn
 msgid "Resume"
-msgstr ""
+msgstr "Continuer"
 
 #. Scene label
 #. screens: pause_menu.tscn
 msgid "Exit"
-msgstr ""
+msgstr "Quitter"
 
 #. Scene label
 #. screens: pause_menu.tscn
@@ -2509,16 +2509,18 @@ msgid ""
 "Antivirus Survivors 2003 Professional\n"
 "Shaun Hammond Business Solutions Ltd"
 msgstr ""
+"Antivirus Survivors 2003 Professionnel\n"
+"Shaun Hammond Business Solutions Ltd"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Control Panel"
-msgstr ""
+msgstr "Panneau de configuration"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Vsync:"
-msgstr ""
+msgstr "VSync:"
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -2528,7 +2530,7 @@ msgstr ""
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "FPS Cap:"
-msgstr ""
+msgstr "Limite FPS:"
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -2538,52 +2540,52 @@ msgstr ""
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Language:"
-msgstr ""
+msgstr "Langue:"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Window Mode:"
-msgstr ""
+msgstr "Mode fenêtre:"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Display Zoom:"
-msgstr ""
+msgstr "Zoom écran:"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Animation Speed:"
-msgstr ""
+msgstr "Vitesse d'animation:"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Master Volume:"
-msgstr ""
+msgstr "Volume:"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Music Volume:"
-msgstr ""
+msgstr "Volume musique:"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Keygen Volume:"
-msgstr ""
+msgstr "Volume Gén. clé:"
 
 #. Scene label
 #. screens: shop_screen.tscn
 msgid "Upgrade Shop"
-msgstr ""
+msgstr "Boutique"
 
 #. Scene label
 #. screens: sound_button.tscn
@@ -2605,62 +2607,62 @@ msgstr ""
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "BigWave 2003 Edition"
-msgstr ""
+msgstr "BigWave Édition 2003"
 
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Sources"
-msgstr ""
+msgstr "Sources"
 
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Rarity"
-msgstr ""
+msgstr "Rareté"
 
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Size"
-msgstr ""
+msgstr "Taille"
 
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Progress"
-msgstr ""
+msgstr "Progrès"
 
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Status"
-msgstr ""
+msgstr "Statut"
 
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Seeds"
-msgstr ""
+msgstr "Seeds"
 
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Speed"
-msgstr ""
+msgstr "Vitesse"
 
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Downloads complete, click to continue..."
-msgstr ""
+msgstr "Téléchargement complet. Clic pour continuer..."
 
 #. Scene label
 #. screens: upgrade_screen.tscn
 msgid "Insert"
-msgstr ""
+msgstr "Édition"
 
 #. Scene label
 #. screens: upgrade_screen.tscn
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 #. Scene label
 #. screens: upgrade_screen.tscn
 msgid "Tools"
-msgstr ""
+msgstr "Outils"
 
 #. Scene label
 #. screens: upgrade_screen.tscn
@@ -2670,7 +2672,7 @@ msgstr "Fenêtre"
 #. Scene label
 #. screens: upgrade_screen.tscn
 msgid "Show Stats"
-msgstr ""
+msgstr "Statistiques"
 
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
