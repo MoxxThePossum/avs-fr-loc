@@ -1462,7 +1462,7 @@ msgstr ""
 #. Shop screen - title
 #. source: Shop
 msgid "UI.shop_title"
-msgstr ""
+msgstr "Boutique"
 
 #. Shop screen - speech
 #. source: Purchase some upgrades! Please, I need Coin...
@@ -1472,12 +1472,12 @@ msgstr ""
 #. UI (script-driven)
 #. source: Max
 msgid "UI.max"
-msgstr ""
+msgstr "Maxi"
 
 #. UI (script-driven)
 #. source: Defragmented
 msgid "UI.defragmented"
-msgstr ""
+msgstr "Défragmenté"
 
 #. UI (script-driven)
 #. source: %2.2f KB
@@ -1504,7 +1504,7 @@ msgstr ""
 #. source: Beanz: %d
 #. Keep placeholders unchanged: %d
 msgid "UI.beanz"
-msgstr ""
+msgstr "Beanz: %d"
 
 #. HUD - Coin label
 #. source: Coin: %.2f
@@ -1576,12 +1576,12 @@ msgstr ""
 #. Desktop icon tooltip
 #. source: Double-Click to collect all coins
 msgid "CLICKABLE.double_click_collect_coins"
-msgstr ""
+msgstr "Double-clic pour collectioner toutes les pièces"
 
 #. Desktop icon tooltip
 #. source: Double-Click to collect all data
 msgid "CLICKABLE.double_click_collect_data"
-msgstr ""
+msgstr "Double-clic pour collectioner toutes les donnés"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Install Plugin
@@ -1596,12 +1596,12 @@ msgstr "Double-clic pour générer une clé"
 #. Desktop icon tooltip
 #. source: Double-Click to Play
 msgid "CLICKABLE.double_click_play"
-msgstr ""
+msgstr "Double-clic pour jouer"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Open Shop
 msgid "CLICKABLE.double_click_shop"
-msgstr ""
+msgstr "Double-clic pour ouvrir la boutique"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Unarchive
@@ -1660,13 +1660,13 @@ msgstr ""
 #. source: Amount: %.1f
 #. Keep placeholders unchanged: %.1f
 msgid "TOOLTIP.amount"
-msgstr ""
+msgstr "Nombre:%.1f"
 
 #. Stat tooltip
 #. source: Speed: %.2fs
 #. Keep placeholders unchanged: %.2f
 msgid "TOOLTIP.speed"
-msgstr ""
+msgstr "Vitesse: %.2fs"
 
 #. Stat tooltip
 #. source: Refresh: %.2fs
@@ -1678,7 +1678,7 @@ msgstr ""
 #. source: Size: %.2fx
 #. Keep placeholders unchanged: %.2f
 msgid "TOOLTIP.size"
-msgstr ""
+msgstr "Taille: %.2fx"
 
 #. Stat tooltip
 #. source: Power: %.1f
@@ -1696,24 +1696,26 @@ msgstr ""
 #. source: Rank: %d/%d
 #. Keep placeholders unchanged: %d
 msgid "META.rank"
-msgstr ""
+msgstr "Rang: %d/%d"
 
 #. Meta upgrade menu
 #. source: MAX RANK
 msgid "META.rank_max"
-msgstr ""
+msgstr "RANG MAXI"
 
 #. Meta upgrade menu
 #. source: Cost: %d Beanz
 #. Keep placeholders unchanged: %d
 msgid "META.cost_beanz"
-msgstr ""
+msgstr "Coût: %d Beanz"
 
 #. Zip extractor window
 #. source: Extracting file: \n%s from /.???
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
 msgstr ""
+"Extraction du fichier: \n"
+"%s de /.???"
 
 #. Zip extractor window
 #. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
@@ -1725,13 +1727,13 @@ msgstr ""
 #. source: %s extracted successfully.
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracted_success"
-msgstr ""
+msgstr "%s extrait."
 
 #. DLL
 #. source: Missing dynamic link library %s located.
 #. Keep placeholders unchanged: %s
 msgid "DLL.missing_library"
-msgstr ""
+msgstr "Extension d'application %s localisé."
 
 #. Desktop icon tooltip
 #. source: BigWave.exe
@@ -1751,27 +1753,27 @@ msgstr "Installateur.pgi"
 #. Run stats panel row
 #. source: Difficulty
 msgid "RUNSTAT.difficulty"
-msgstr ""
+msgstr "Difficulté"
 
 #. Run stats panel row
 #. source: Levels Gained
 msgid "RUNSTAT.levels_gained"
-msgstr ""
+msgstr "Niveau"
 
 #. Run stats panel row
 #. source: EXP Gained
 msgid "RUNSTAT.exp_gained"
-msgstr ""
+msgstr "EXP gagné"
 
 #. Run stats panel row
 #. source: Safe Folders Opened
 msgid "RUNSTAT.safe_folders"
-msgstr ""
+msgstr "Dossiers sécurisés accédés"
 
 #. Run stats panel row
 #. source: Files Opened
 msgid "RUNSTAT.files_opened"
-msgstr ""
+msgstr "Fichiers ouverts"
 
 #. Run stats panel row
 #. source: Enemies Cleared
@@ -1781,17 +1783,17 @@ msgstr ""
 #. Run stats panel row
 #. source: Coin Collected
 msgid "RUNSTAT.coin_collected"
-msgstr ""
+msgstr "Pièces collectionés"
 
 #. Run stats panel row
 #. source: Keys Collected
 msgid "RUNSTAT.keys_collected"
-msgstr ""
+msgstr "Clés collectionés"
 
 #. Run stats panel row
 #. source: Beanz Collected
 msgid "RUNSTAT.beanz_collected"
-msgstr ""
+msgstr "Beanz collectionés"
 
 #. Scene label
 msgid "Packet Loss"
@@ -2184,7 +2186,7 @@ msgstr "Bienvenue..."
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Let's get started with Double-Clicking some settings."
-msgstr ""
+msgstr "Commençons par configurer quelques paramètres."
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -2239,12 +2241,12 @@ msgstr ""
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Folder Difficulty"
-msgstr ""
+msgstr "Difficulté"
 
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Cursor Class"
-msgstr ""
+msgstr "Pointeurs"
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -2279,12 +2281,12 @@ msgstr ""
 #. Scene label
 #. screens: stat_list.tscn
 msgid "Installed Plugins"
-msgstr ""
+msgstr "Pilotes installés"
 
 #. Scene label
 #. screens: stat_upgrade_item.tscn
 msgid "Firewall Size"
-msgstr ""
+msgstr "Taille du pare-feu"
 
 #. Scene label
 #. screens: basic_window.tscn; upgrade_screen.tscn; window.tscn
@@ -2304,7 +2306,7 @@ msgstr "Antivirus Survivors 2003 Professionnel ©"
 #. Scene label
 #. screens: end_screen.tscn
 msgid "Victory!"
-msgstr ""
+msgstr "Victoire!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -2334,7 +2336,7 @@ msgstr "Quitter au menu"
 #. Scene label
 #. screens: end_timer_ui.tscn
 msgid "Get to the Safe Folder!"
-msgstr ""
+msgstr "Trouve le dossier sécurisé!"
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -2525,7 +2527,7 @@ msgstr "VSync:"
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Toggle"
-msgstr ""
+msgstr "Modifier"
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -2535,7 +2537,7 @@ msgstr "Limite FPS:"
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Cycle"
-msgstr ""
+msgstr "Modifier"
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -2590,7 +2592,7 @@ msgstr "Boutique"
 #. Scene label
 #. screens: sound_button.tscn
 msgid "Sound Button"
-msgstr ""
+msgstr "Bouton son"
 
 #. Scene label
 #. screens: upgrade_button.tscn
