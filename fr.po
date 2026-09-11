@@ -157,7 +157,7 @@ msgstr "Ajoute +1 PV de regéneration pour chaque rang"
 #. Meta upgrade menu - name (luck)
 #. source: Luck
 msgid "META.luck.name"
-msgstr ""
+msgstr "Chance"
 
 #. Meta upgrade menu - description (luck)
 #. source: Multiply Luck by an extra +1% per Rank.
