@@ -28,7 +28,6 @@ msgstr "Standard"
 
 #. Class select - description (default)
 #. source: Your regular old cursor - balanced, simple, beautiful.
-#, fuzzy
 msgid "CLASS.default.description"
 msgstr "Le curseur classique"
 
@@ -40,7 +39,7 @@ msgstr "Null"
 #. Class select - description (null)
 #. source: Weak and fragile, but has a lot of luck.
 msgid "CLASS.null.description"
-msgstr ""
+msgstr "Très fragile, mais chanceux"
 
 #. Class select - name (vector)
 #. source: Vector
@@ -2093,7 +2092,7 @@ msgstr "VOUS AVEZ ÉTÉ SÉLECTIONNÉ!!! BRAVO!!!"
 #. Scene label
 #. screens: spam_ad_6.tscn
 msgid "CHEAP PRINTER ONE CLICK AWAY"
-msgstr "IMPRIMANTE PAS CHER CHEZ NOUS."
+msgstr "IMPRIMANTE PAS CHER CHEZ NOUS"
 
 #. Scene label
 #. screens: spam_ad_7.tscn
