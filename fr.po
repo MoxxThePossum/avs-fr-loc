@@ -120,7 +120,7 @@ msgstr "Attaque critique"
 #. Meta upgrade menu - description (crit_damage)
 #. source: Multiply Crit Damage by an extra +2% per Rank.
 msgid "META.crit_damage.description"
-msgstr ""
+msgstr "Multiplie la force de l'attaque critique par +2% pour chaque rang."
 
 #. Meta upgrade menu - name (cursor_speed)
 #. source: Cursor Speed
@@ -209,32 +209,33 @@ msgstr "Multiplie la vitesse du processeur par +1% pour chaque rang."
 #. Meta upgrade menu - name (weap_amount)
 #. source: Weapon Amount
 msgid "META.weap_amount.name"
-msgstr ""
+msgstr "Nombre d'armes"
 
 #. Meta upgrade menu - description (weap_amount)
 #. source: Increases Weapon Amount chance +3% per Rank.
 msgid "META.weap_amount.description"
 msgstr ""
+"Incrémente la chance d'une arme additionelle par +3% pour chaque rang."
 
 #. Meta upgrade menu - name (weap_damage)
 #. source: Weapon Damage
 msgid "META.weap_damage.name"
-msgstr ""
+msgstr "Attaque d'armes"
 
 #. Meta upgrade menu - description (weap_damage)
 #. source: Multiply Weapon Damage by an extra +2% per Rank.
 msgid "META.weap_damage.description"
-msgstr ""
+msgstr "Multiplie la force d'attaque des armes par +2% pour chaque rang."
 
 #. Meta upgrade menu - name (weap_refresh)
 #. source: Weapon Refresh
 msgid "META.weap_refresh.name"
-msgstr ""
+msgstr "Temps d'attente d'attaque"
 
 #. Meta upgrade menu - description (weap_refresh)
 #. source: Multiply Weapon Refresh by an extra +1% per Rank.
 msgid "META.weap_refresh.description"
-msgstr ""
+msgstr "Réduit le temps d'attente d'attaque par +1% pour chaque rang."
 
 #. Meta upgrade menu - name (weap_repel)
 #. source: Weapon Power
@@ -249,22 +250,22 @@ msgstr ""
 #. Meta upgrade menu - name (weap_size)
 #. source: Weapon Size
 msgid "META.weap_size.name"
-msgstr ""
+msgstr "Taille des armes"
 
 #. Meta upgrade menu - description (weap_size)
 #. source: Multiply Weapon Size by an extra +1% per Rank.
 msgid "META.weap_size.description"
-msgstr ""
+msgstr "Multiplie la taille des armes par +1% pour chaque rang."
 
 #. Meta upgrade menu - name (weap_speed)
 #. source: Weapon Speed
 msgid "META.weap_speed.name"
-msgstr ""
+msgstr "Vitesse d'attaque"
 
 #. Meta upgrade menu - description (weap_speed)
 #. source: Multiply Weapon Speed by an extra +1% per Rank.
 msgid "META.weap_speed.description"
-msgstr ""
+msgstr "Multiplie la vitesse d'attaque des armes par +1% pour chaque rang."
 
 #. Plugin - name (armor_damage_trigger)
 #. source: armor_damage_trigger
@@ -279,12 +280,12 @@ msgstr ""
 #. Plugin - name (armor_missing_hp)
 #. source: armor_missing_hp
 msgid "PLUGIN.armor_missing_hp.name"
-msgstr ""
+msgstr "protec_pv_manquant"
 
 #. Plugin - description (armor_missing_hp)
 #. source: Add +1 Armor per 2% missing HP.
 msgid "PLUGIN.armor_missing_hp.description"
-msgstr ""
+msgstr "+1 protection pour 2% de PV manquant."
 
 #. Plugin - name (big_hp_regen_boost)
 #. source: big_hp_regen_boost
@@ -301,12 +302,13 @@ msgstr ""
 #. Plugin - name (big_wave_damage)
 #. source: big_wave_damage
 msgid "PLUGIN.big_wave_damage.name"
-msgstr ""
+msgstr "bigwave_attaque"
 
 #. Plugin - description (big_wave_damage)
 #. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
 msgid "PLUGIN.big_wave_damage.description"
 msgstr ""
+"Incrémente la force d'attaque des armes par +10% en ouvrant une BigWave."
 
 #. Plugin - name (blast_on_file_open)
 #. source: blast_on_file_open
@@ -371,22 +373,25 @@ msgstr "Multiplie la vitesse du pointeur par 1.1x."
 #. Plugin - name (cursor_speed_damage)
 #. source: cursor_speed_damage
 msgid "PLUGIN.cursor_speed_damage.name"
-msgstr ""
+msgstr "vitesse_pointeur_attaque"
 
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
 msgstr ""
+"Incrémente la vitesse du pointeur par +10%.\n"
+"Incrémente la vitesse du pointeur par +30% en cas de perte de PV (pendant "
+"10s)."
 
 #. Plugin - name (damage_boost)
 #. source: damage_boost
 msgid "PLUGIN.damage_boost.name"
-msgstr ""
+msgstr "boost_attaque"
 
 #. Plugin - description (damage_boost)
 #. source: Multiply Weapon Damage 1.1x.
 msgid "PLUGIN.damage_boost.description"
-msgstr ""
+msgstr "Multiplie la force d'attaque des armes par 1.1x."
 
 #. Plugin - name (damage_level_scaling)
 #. source: damage_level_scaling
@@ -401,22 +406,27 @@ msgstr ""
 #. Plugin - name (damage_missing_hp)
 #. source: damage_missing_hp
 msgid "PLUGIN.damage_missing_hp.name"
-msgstr ""
+msgstr "force_att_pv_manquant"
 
 #. Plugin - description (damage_missing_hp)
 #. source: Increase Weapon Damage +1% per 1% missing HP.
 msgid "PLUGIN.damage_missing_hp.description"
 msgstr ""
+"Incrémente la force d'attaque des armes par +1% pour 1% de PV manquant."
 
 #. Plugin - name (damage_speed_crit)
 #. source: damage_speed_crit
 msgid "PLUGIN.damage_speed_crit.name"
-msgstr ""
+msgstr "force_att_crit_vitesse"
 
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
 msgstr ""
+"Incrémente la force d'attaque des armes par +10%.\n"
+"Réduit le temps d'attente d'attaque par +10%.\n"
+"Incrémente la chance d'une attaque critique par +5%.\n"
+"Incrémente la force d'attaque critique par +15%."
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: defrag_on_safe_folder
@@ -441,12 +451,12 @@ msgstr "Multiplie la vitesse du processeur par 2.0x."
 #. Plugin - name (heal_on_crit)
 #. source: heal_on_crit
 msgid "PLUGIN.heal_on_crit.name"
-msgstr ""
+msgstr "regen_attaque_crit"
 
 #. Plugin - description (heal_on_crit)
 #. source: 5% Chance to Heal when landing a Crit.
 msgid "PLUGIN.heal_on_crit.description"
-msgstr ""
+msgstr "Chance de 5% de regéneration en cas d'attaque critique."
 
 #. Plugin - name (hp_boost)
 #. source: hp_boost
@@ -461,12 +471,12 @@ msgstr "Ajoute +15 PV maxi."
 #. Plugin - name (hp_on_heal)
 #. source: hp_on_heal
 msgid "PLUGIN.hp_on_heal.name"
-msgstr ""
+msgstr "boost_pv_maxi"
 
 #. Plugin - description (hp_on_heal)
 #. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
 msgid "PLUGIN.hp_on_heal.description"
-msgstr ""
+msgstr "7% de chance d'ajouter +3 PV maxi quand la barre de PV est pleine."
 
 #. Plugin - name (locate_pointer)
 #. source: Locate Pointer
@@ -476,7 +486,7 @@ msgstr "aidez_moi"
 #. Plugin - description (locate_pointer)
 #. source: Trigger a Blast when taking damage (20s cooldown).
 msgid "PLUGIN.locate_pointer.description"
-msgstr ""
+msgstr "Cause une explosion en cas d'attaque ennemie (20s temps d'attente)."
 
 #. Plugin - name (luck_boost)
 #. source: luck_boost
@@ -512,12 +522,12 @@ msgstr ""
 #. Plugin - name (lucky_when_hurt)
 #. source: Lucky When Hurt
 msgid "PLUGIN.lucky_when_hurt.name"
-msgstr ""
+msgstr "mal_chanceux"
 
 #. Plugin - description (lucky_when_hurt)
 #. source: Multiply Luck 2.0x when taking Damage (Lasts 6s).
 msgid "PLUGIN.lucky_when_hurt.description"
-msgstr ""
+msgstr "Multiplie la chance par 2.0x en cas d'attaque ennemie (pendant 6s)."
 
 #. Plugin - name (packet_loss_boost)
 #. source: packet_loss_boost
@@ -594,12 +604,12 @@ msgstr ""
 #. Plugin - name (weapon_speed_boost)
 #. source: weapon_speed_boost
 msgid "PLUGIN.weapon_speed_boost.name"
-msgstr ""
+msgstr "boost_vitesse_attaque"
 
 #. Plugin - description (weapon_speed_boost)
 #. source: Multiply Weapon Speed 1.1x.
 msgid "PLUGIN.weapon_speed_boost.description"
-msgstr ""
+msgstr "Multiplie la vitesse d'attaque par 1.1x."
 
 #. Plugin - name (xp_drop_boost)
 #. source: xp_drop_boost
@@ -2003,7 +2013,7 @@ msgstr "Extension d'application « scd.dll » introuvable."
 #. Scene label
 #. screens: dll_window.tscn
 msgid "Procedure can now resume."
-msgstr "La procédure peut reprendre."
+msgstr "La procédure peut continuer."
 
 #. Scene label
 #. screens: dll_window.tscn
@@ -2012,7 +2022,6 @@ msgstr "OK"
 
 #. Scene label
 #. screens: download_ram_window.tscn
-#, fuzzy
 msgid "RAM Downloader Professional (Legal)"
 msgstr "Télécharger RAM Gratuit (Légal)"
 
@@ -2049,7 +2058,7 @@ msgstr "LemWire 4.7"
 #. Scene label
 #. screens: lem_window.tscn
 msgid "Searching: cursor upgrades"
-msgstr "Recherche : améliorations du pointeur"
+msgstr "Recherche: améliorations du pointeur"
 
 #. Scene label
 #. screens: lem_window.tscn
